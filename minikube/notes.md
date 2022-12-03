@@ -1,7 +1,3 @@
-# App deployment
-
-[drupal](../app/drupal/README.md)
-
 # Minikube notes
 
 ```
